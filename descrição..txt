@@ -1,0 +1,10 @@
+meu-projeto/
+├── css/
+│   └── styles.css
+├── imagens/
+│   ├── hero-bg.jpg
+│   ├── team.jpg
+│   ├── service1.jpg
+│   ├── service2.jpg
+│   ├── service3.jpg
+│   ├── client1.jpg
